@@ -2,7 +2,7 @@
 
 ## Overview
 
-I wanted a simple way to remember the birthdays of my close friends and family members, so I created this Birthday Reminder application for personal use. The application automatically notifies me of upcoming birthdays.
+I wanted a simple way to remember the birthdays of my close friends and family members, so I created this Birthday Reminder application for personal use in class 9. The application automatically notifies me of upcoming birthdays.
 
 The original source code has mostly been lost due to hard disk corruption, but I was able to recover and decompile the executable saved in cloud, which is preserved in this repository.
 
